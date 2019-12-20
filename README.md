@@ -1,7 +1,7 @@
 # Oop_Pricecalculator
 ## tools used : 
-*html 
-*css 
+* html 
+* css 
 * php 
 
 ## link of the page :
