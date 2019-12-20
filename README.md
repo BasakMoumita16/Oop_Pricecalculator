@@ -1,2 +1,11 @@
 # Oop_Pricecalculator
-oop
+## tools used : 
+*html 
+*css 
+* php 
+
+## link of the page :
+url "http://localhost/Oop_Pricecalculator/view/index.php"
+
+## Author :
+### Moumita Basak
